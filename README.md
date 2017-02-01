@@ -1,4 +1,4 @@
-# libchromiumcontent
+# libchromiumcontent - test
 
 Automatically builds and provides prebuilt binaries of the [Chromium Content
 module](http://www.chromium.org/developers/content-module) and all its
